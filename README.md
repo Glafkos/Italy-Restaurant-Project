@@ -12,7 +12,9 @@ GUI cashier: The cashier can see all the orders which have not been yet payed. I
 GUI waiter: When the waiter inserted to the application, can see three choices: "NEW CUSTOMER", "CREATE ORDER", "ADD DISHES IN CURRENT ORDER".  If selected "NEW CUSTOMER", then registered the customer and gives bonus card. If selected "CREATE ORDER" insert the number of table, bonus card (if the customer have) and number of people. Then in a new GUI the waiter select dish, ingriendients and drinks about that table. When order complete, refresh automatic the database. If selected "ADD DISHES IN CURRENT ORDER", then insert the number of table and can add more dishes or anything else about that order.  
 
 First of all, is must to create the database, using the CREATE_INSERT file. Then the database created and insert many of registers. 
-ADD LIBRARIES FOR JAVA APPLICATION: 
+
+ADD LIBRARIES FOR JAVA APPLICATION:
+
 1) MySQL jdbc dRIVER - mysql-connector-java-5.1.23-bin.jar
 2) Absolute Layout - AbsoluteLayout.jar 
 3) JDK 1.7(Default)
