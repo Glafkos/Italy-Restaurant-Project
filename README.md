@@ -16,5 +16,7 @@ First of all, is must to create the database, using the CREATE_INSERT file. Then
 ADD LIBRARIES FOR JAVA APPLICATION:
 
 1) MySQL jdbc dRIVER - mysql-connector-java-5.1.23-bin.jar
+
 2) Absolute Layout - AbsoluteLayout.jar 
+
 3) JDK 1.7(Default)
